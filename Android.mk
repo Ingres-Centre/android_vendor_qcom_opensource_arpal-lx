@@ -26,7 +26,7 @@ include $(BUILD_HEADER_LIBRARY)
 
 include $(CLEAR_VARS)
 
-LOCAL_MODULE        := libar-pal
+LOCAL_MODULE        := libar-pal-qti
 LOCAL_MODULE_OWNER  := qti
 LOCAL_MODULE_TAGS   := optional
 LOCAL_VENDOR_MODULE := true
